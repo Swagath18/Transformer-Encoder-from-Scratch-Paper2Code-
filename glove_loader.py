@@ -23,7 +23,7 @@ def load_glove_embeddings(glove_file_path):
 
 
 #testing glove
-if __name__ == "__main__":
-    embeddings_dict, embedding_dim = load_glove_embeddings("glove.6B.50d.txt")
-    print(f"Loaded {len(embeddings_dict)} words with dimension {embedding_dim}")
-    print("Example vector for 'movie':", embeddings_dict.get('movie'))
+# if __name__ == "__main__":
+#     embeddings_dict, embedding_dim = load_glove_embeddings("glove.6B.50d.txt")
+#     print(f"Loaded {len(embeddings_dict)} words with dimension {embedding_dim}")
+#     print("Example vector for 'movie':", embeddings_dict.get('movie'))
