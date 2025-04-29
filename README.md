@@ -65,3 +65,12 @@ This processes a real English sentence and predicts a class.
 - Build full Transformer (add Decoder block)
 
 Built to learn deeply from research papers.
+
+---
+
+## References
+
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017).  
+  ["Attention is All You Need"](https://arxiv.org/abs/1706.03762). *Advances in Neural Information Processing Systems (NeurIPS)*.
+
+This project implements the Transformer Encoder architecture described in the paper above for educational and research purposes.
